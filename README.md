@@ -1,7 +1,11 @@
-Hi 👋, I'm choudhary Bobby
-Future Software Engineer 💻 Turning Ideas into Code 🌱 Learning Something New Every Day ⚡ Code • Learn • Repeat 🔥 Consistency is the Key from India
-👨‍💻 All of my projects are available at https://github.com/ch-Bobby2004
+<h1 align="center">Hi 👋, I'm choudhary Bobby</h1>
+<h3 align="center">Future Software Engineer 💻 Turning Ideas into Code 🌱 Learning Something New Every Day ⚡ Code • Learn • Repeat 🔥 Consistency is the Key from India</h3>
 
-📫 How to reach me choudharybobby14nov@gmail.com
+- 👨‍💻 All of my projects are available at [https://github.com/ch-Bobby2004](https://github.com/ch-Bobby2004)
 
-Connect with me:
+- 📫 How to reach me **choudharybobby14nov@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/14ry-bobby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="14ry-bobby" height="30" width="40" /></a>
+</p>
