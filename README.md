@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm choudhary Bobby</h1>
-<h3 align="center">Future Software Engineer 💻 Turning Ideas into Code  ⚡ Code • Learn • Repeat 🔥</h3>
+<h3 align="center">Software Engineer 💻 Turning Ideas into Code  ⚡ Code • Learn • Repeat 🔥</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ch-Bobby2004](https://github.com/ch-Bobby2004)
 
